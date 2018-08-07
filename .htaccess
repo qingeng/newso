@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteBase /
+RewriteRule ^(.*)$ https://fo.newso.net/$1 [P]
